@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\eyary\source\repos\nikita\ConsoleApplication1\ConsoleApplication1\Header.h(12,54): warning C4190: для "myname" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(4648): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  ConsoleApplication1.vcxproj -> C:\Users\eyary\source\repos\nikita\ConsoleApplication1\Debug\ConsoleApplication1.exe
